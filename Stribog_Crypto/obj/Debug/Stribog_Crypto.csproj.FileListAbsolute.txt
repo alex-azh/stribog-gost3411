@@ -1,0 +1,14 @@
+C:\Users\prog\source\repos\Stribog_Crypto\bin\Debug\Stribog_Crypto.exe.config
+C:\Users\prog\source\repos\Stribog_Crypto\bin\Debug\Stribog_Crypto.exe
+C:\Users\prog\source\repos\Stribog_Crypto\bin\Debug\Stribog_Crypto.pdb
+C:\Users\prog\source\repos\Stribog_Crypto\obj\Debug\Stribog_Crypto.csprojAssemblyReference.cache
+C:\Users\prog\source\repos\Stribog_Crypto\obj\Debug\Stribog_Crypto.csproj.CoreCompileInputs.cache
+C:\Users\prog\source\repos\Stribog_Crypto\obj\Debug\Stribog_Crypto.exe
+C:\Users\prog\source\repos\Stribog_Crypto\obj\Debug\Stribog_Crypto.pdb
+C:\Users\service\source\repos\Stribog_Crypto\bin\Debug\Stribog_Crypto.exe.config
+C:\Users\service\source\repos\Stribog_Crypto\bin\Debug\Stribog_Crypto.exe
+C:\Users\service\source\repos\Stribog_Crypto\bin\Debug\Stribog_Crypto.pdb
+C:\Users\service\source\repos\Stribog_Crypto\obj\Debug\Stribog_Crypto.csproj.AssemblyReference.cache
+C:\Users\service\source\repos\Stribog_Crypto\obj\Debug\Stribog_Crypto.csproj.CoreCompileInputs.cache
+C:\Users\service\source\repos\Stribog_Crypto\obj\Debug\Stribog_Crypto.exe
+C:\Users\service\source\repos\Stribog_Crypto\obj\Debug\Stribog_Crypto.pdb
